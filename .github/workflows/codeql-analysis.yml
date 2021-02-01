@@ -1,7 +1,0 @@
-strategy:
-  fail-fast: false
-  matrix:
-    # Override automatic language detection by changing the list below
-    # Supported options are:
-    # ['csharp', 'cpp', 'go', 'java', 'javascript', 'python']
-    language: ['python']
